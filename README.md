@@ -1,5 +1,6 @@
 # EX No.4.1. CUT SECTION OF SOLIDS
-## DATE:
+## NAME: MIRTYUNJAY S
+## REGISTER NO:212224040190
 
 ## AIM
 To create the solid model from given drawing and section the solid model
@@ -41,6 +42,7 @@ To create the solid model from given drawing and section the solid model
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
 ## OUTPUT:
+<img width="1192" height="846" alt="Screenshot 2026-03-31 114059" src="https://github.com/user-attachments/assets/e779eda9-a155-4189-94f2-2207da039d5e" />
 
 ## RESULT:
 
